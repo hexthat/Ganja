@@ -1,2 +1,2 @@
-# StardewValleyMods
-mods for stardew valley
+# Stardew Valley Ganja
+add Cannabis to Stardew Valley

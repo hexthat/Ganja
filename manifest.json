@@ -4,8 +4,7 @@
     "Version": "1.0.0",
     "Description": "Add Cannabis to game.",
     "UniqueID": "hexthat.Ganja",
-    "UpdateKeys": [], // when you release the mod, see https://stardewvalleywiki.com/Modding:Modder_Guide/APIs/Update_checks
-    "ContentPackFor": {
+    "UpdateKeys": [github:hexthat/Ganja],
         "UniqueID": "Pathoschild.ContentPatcher"
     },
     "Dependencies": [

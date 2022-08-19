@@ -21,9 +21,9 @@
             "Action": "EditData",
             "Target": "Data/ObjectInformation",
             "Entries": {
-              "9": "Cannabis Seeds/220/12/Seeds -74/Cannabis Seeds/Won't grow in the winter.",
+              "9": "Cannabis Seeds/200/12/Seeds -74/Cannabis Seeds/Won't grow in the winter.",
               "217": "Special Cake/2000/-32/Basic -26/Special Cake/Valuable. Eat only in safe place.",
-              "352": "Ruderalis/125/-20/Basic -75/Ruderalis/Seeds are more valuable."
+              "352": "Ruderalis/45/-20/Basic -75/Ruderalis/Seeds are more valuable."
             }
         }
     ]

@@ -1,0 +1,30 @@
+{
+    "Format": "1.27.0",
+    "Changes": [
+      {
+          "Action": "EditData",
+          "Target": "Data/CookingRecipes",
+          "Entries": {
+            "Special Cake": "352 5 245 1 246 1 -5 1 -6 1/2 2/217/l 18"
+          }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/ObjectContextTags",
+            "Entries": {
+              "Cannabis Seeds": "color_gold, season_spring, season_summer, season_fall,",
+              "Special Cake": "color_gold",
+              "Ruderalis": "color_green"
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/ObjectInformation",
+            "Entries": {
+              "9": "Cannabis Seeds/220/12/Seeds -74/Cannabis Seeds/Won't grow in the winter.",
+              "217": "Special Cake/2000/-32/Basic -26/Special Cake/Valuable. Eat only in safe place.",
+              "352": "Ruderalis/125/-20/Basic -75/Ruderalis/Seeds are more valuable."
+            }
+        }
+    ]
+}

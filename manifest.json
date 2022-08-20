@@ -1,7 +1,7 @@
 {
     "Name": "Ganja",
     "Author": "hexthat",
-    "Version": "1.0.4",
+    "Version": "1.0.5",
     "Description": "Add Cannabis to game.",
     "UniqueID": "hexthat.Ganja",
     "UpdateKeys": ["GitHub:hexthat/Ganja"],
@@ -11,7 +11,7 @@
     "Dependencies": [
         {
             "UniqueID": "Pathoschild.ContentPatcher",
-            "IsRequired": false
+            "IsRequired": true
         }
     ]
 }

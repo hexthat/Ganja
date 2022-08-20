@@ -39,6 +39,20 @@
               "217": "Special Cake/2000/6/Basic -26/Special Cake/Valuable. Eat only in safe place.",
               "352": "Ruderalis/45/-20/Basic -75/Ruderalis/Seeds are more valuable."
             }
-        }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Maps/springobjects",
+            "FromFile": "assets/seeds.png",
+            "FromArea": { "X": 0, "Y": 0, "Width": 16, "Height": 16 },
+            "ToArea": { "X": 144, "Y": 1, "Width": 16, "Height": 16 }
+       },
+       {
+            "Action": "EditImage",
+            "Target": "Maps/springobjects",
+            "FromFile": "assets/bud.png",
+            "FromArea": { "X": 0, "Y": 0, "Width": 16, "Height": 16 },
+            "ToArea": { "X": 257, "Y": 225, "Width": 16, "Height": 16 }
+      }
     ]
 }
